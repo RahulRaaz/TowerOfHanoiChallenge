@@ -23,7 +23,7 @@ Advancements planned:
 3. Save high scores.
 
 GIT URL:
-https://github.com/RahulRaaz/TowerOfHanoi
+https://github.com/RahulRaaz/TowerOfHanoiChallenge
 
 
 Created by Rahul Ravichandran.
